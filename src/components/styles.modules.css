@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+img {
+    object-fit: cover;
+    height: 250px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+form {
+    padding: 20px;
+}
+
+.item {
+    background-color: white;
+    width: 200px;
+    margin: 0px auto;
+    padding: 0px 0px 20px 0px;
+    border-radius: 10px;
+}
+
+input {
+    margin-right: 20px;
+}
